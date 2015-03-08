@@ -1,0 +1,2 @@
+set path= ($path /share/rkrish11/miniconda/bin/ $home/bin/)
+alias git "env GIT_SSL_NO_VERIFY=true git"
