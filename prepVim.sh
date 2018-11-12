@@ -1,9 +1,6 @@
 #!/bin/bash
 mkdir -p ~/.vim/autoload ~/.vim/bundle
 curl -so ~/.vim/autoload/pathogen.vim https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim
-
-# Install Python Stuff..
-sudo apt-get install pip
 cd ~/.vim/bundle
 
 # Install powerline
