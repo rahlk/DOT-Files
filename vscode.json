@@ -1,0 +1,53 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "git.enableSmartCommit": true,
+    "editor.rulers": [80],
+    "python.linting.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.smoothScrolling": true,
+    "python.linting.pylintArgs": [
+        "--errors-only"
+    ],
+    "editor.fontSize": 14,
+    "editor.suggestLineHeight": 14,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.suggestFontSize": 12,
+    "git.confirmSync": false,
+    "files.autoSave": "onFocusChange",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
+    "atomKeymap.promptV3Features": true,
+    "editor.formatOnPaste": true,
+    "workbench.colorCustomizations": {
+        // ------ High Contrast Green -----
+        // "editor.background": "#000900", 
+        // "editor.foreground": "#5ffa67",
+
+        // ----- Monokai Dark Soda -----
+
+        "editor.background": "#282926", 
+        "statusBar.background": "#22252a",
+        "terminal.foreground": "#ffffff"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": -1,
+    "workbench.panel.defaultLocation": "right",
+    "terminal.integrated.fontWeightBold": "100",
+    "terminal.integrated.fontWeight": "100",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontSize": 15,
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "workbench.activityBar.visible": true,
+    "autoDocstring.docstringFormat": "numpy",
+    "autoDocstring.includeDescription": true,
+    "autoDocstring.newlineBeforeSummary": true,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "editor.renderLineHighlight": "gutter",
+    "git.autofetch": true,
+    "editor.lineHeight": 18,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Monokai Dark Soda",
+    "editor.detectIndentation": false
+}
